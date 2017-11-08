@@ -80,7 +80,7 @@ $APPLICATION->SetTitle("Способы оплаты");
                 <div class="rounded-angles left">
                     <div>
                         <!--noindex-->
-                        <!--<a href="http://money.yandex.ru/" title="Яндекс.Деньги" target="_blank" rel="nofollow" ><img src="/upload/medialibrary/065/logo_money_yandex.gif" title="Яндекс.Деньги" border="0" alt="logo_money_yandex.gif" width="90" height="49" class="image-margin-rgt" align="left"  /></a>-->
+                        <a href="http://money.yandex.ru/" title="Яндекс.Деньги" target="_blank" rel="nofollow" ><img src="/upload/medialibrary/065/logo_money_yandex.gif" title="Яндекс.Деньги" border="0" alt="logo_money_yandex.gif" width="90" height="49" class="image-margin-rgt" align="left"  /></a>
                         <!--/noindex-->
 
                         <!--noindex-->

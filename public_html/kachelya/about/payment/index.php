@@ -112,9 +112,9 @@ $APPLICATION->SetTitle("Способы оплаты");
                 <div class="rounded-angles left">
                     <div>
                         <!--noindex-->
-                        <!--<a href="http://money.yandex.ru/" title="Яндекс.Деньги" target="_blank" rel="nofollow"><img
+                        <a href="http://money.yandex.ru/" title="Яндекс.Деньги" target="_blank" rel="nofollow"><img
                                     src="/upload/medialibrary/065/logo_money_yandex.gif" title="Яндекс.Деньги"
-                                    alt="Яндекс.Деньги" width="90" height="49" class="image-margin-rgt"/></a>-->
+                                    alt="Яндекс.Деньги" width="90" height="49" class="image-margin-rgt"/></a>
                         <a href="http://www.rbkmoney.ru/" target="_blank" rel="nofollow"><img
                                     src="/upload/medialibrary/35e/logo_rbkmoney.gif" title="RBKmoney" alt="RBKmoney"
                                     width="90" height="49" class="image-margin-rgt"/></a><a

@@ -68,7 +68,7 @@ input.b {font: bold 10pt/14pt Arial;border:0px none;width:380px}
 				<span style="line-height:26px"><font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px">Сч. №</span>
       </td>
 			<td valign="bottom" nowrap="nowrap" rowspan="2"> 
-        <span style="line-height:26px"><font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px">40702810700000002103</font></span>
+        <span style="line-height:26px"><font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px">40702810670010039258</font></span>
       </td>   
     </tr>
 		<tr>
@@ -78,13 +78,13 @@ input.b {font: bold 10pt/14pt Arial;border:0px none;width:380px}
 		</tr>
     <tr>
 			<td nowrap="nowrap" colspan="2" rowspan="2" valign="top"> 
-        <font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px"><span style="line-height:26px">Банк получателя</span><br/><br/>ООО КБ &laquo;Регионфинансбанк&raquo; г.Москва</font>
+        <font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px"><span style="line-height:26px">Банк получателя</span><br/><br/>МОСКОВСКИЙ ФИЛИАЛ АО КБ "МОДУЛЬБАНК"</font>
       </td>
 			<td nowrap="nowrap"> 
         <font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px">БИК
       </td>
       <td rowspan="2" valign="top">
-				<font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px"><span style="line-height:26px">044525898</span><br/><br/>30101810645250000898</font>
+				<font size="2" face="Arial, Tahoma, Verdana, Helvetica, sans-serif" style="font-size:12px"><span style="line-height:26px">044525092</span><br/><br/>30101810645250000092</font>
       </td>
 		</tr>
     <tr>
